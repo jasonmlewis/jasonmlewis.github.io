@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jason M. Lewis"
-  avatar : "photo-JasonLewis-website.jpg" #"https://www.physchem.lu.se/fileadmin/fkem1/images/People/Jason_Lewis_2020.jpg"
+  avatar : "assets/images/photo-JasonLewis-website.jpg"
   bio    : "Postdoctoral Researcher in Soft Matter Physics at Lund University"
   links:
     - label: "Twitter"
