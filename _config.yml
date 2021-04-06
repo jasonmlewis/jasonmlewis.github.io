@@ -60,6 +60,9 @@ author:
   avatar : "assets/images/photo-JasonLewis-website.jpg"
   bio    : "Postdoctoral Researcher in Soft Matter Physics at Lund University"
   links:
+    - label: "jason.lewis@fkem1.lu.se"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jason.lewis@fkem1.lu.se"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/__jasonlewis"
@@ -75,6 +78,9 @@ author:
 
 footer:
   links:
+    - label: "jason.lewis@fkem1.lu.se"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jason.lewis@fkem1.lu.se"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/__jasonlewis"
