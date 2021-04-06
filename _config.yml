@@ -75,6 +75,12 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=Ua-ZCwYAAAAJ&hl=en"
+    - label: "Me @ Warwick"
+      icon: "fas fa-fw fa-link"
+      url: "https://warwick.ac.uk/fac/cross_fac/complexity/people/students/dtc/students2013/lewis/"
+    - label: "Me @ Lund"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.physchem.lu.se/people/postdocs/lewis/"
 
 footer:
   links:
