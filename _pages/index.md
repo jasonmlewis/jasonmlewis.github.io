@@ -16,4 +16,4 @@ I completed my PhD in 2018, under the supervision of [Matthew Turner](https://ho
 
 <img alt="Bird flocking: Sort sol at Ørnsø" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Sort_sol_ved_%C3%98rns%C3%B8_2007.jpg" width="425"/> <img alt="Active nematic: confined microtubules" src="https://blogs.brandeis.edu/science/files/2016/01/flat.jpg" width="425"/> 
 
-_(left) Bird flocking: Sort sol at Ørnsø; (right) Active nematic: confined microtubules_
+_(Left) Bird flocking: Sort sol at Ørnsø.&nbsp;&nbsp;(Right) Active nematic: confined microtubules._
