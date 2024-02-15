@@ -88,7 +88,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jason-m-lewis0"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Ua-ZCwYAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
