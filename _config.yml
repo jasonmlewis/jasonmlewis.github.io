@@ -16,7 +16,7 @@
 title: Jason M. Lewis
 email: jason.lewis@fkem1.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website of Jason M. Lewis, Postdoctoral Researcher in Soft Matter Physics at Lund University.
+  Personal Website of Jason M. Lewis | Researcher | Statistical/Computational Physics & Machine Learning
 twitter_username: __jasonlewis
 github_username: jasonmlewis
 minimal_mistakes_skin: default
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 #permalink: /:categories/:title/
 #paginate: 0 # amount of posts to show
 #paginate_path: /page:num/
-timezone: SE # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GB # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,47 +58,44 @@ plugins:
 author:
   name   : "Jason M. Lewis"
   avatar : "assets/images/photo-JasonLewis-website.jpg"
-  bio    : "Postdoctoral Researcher in Soft Matter Physics at Lund University"
+  bio    : "Researcher | Statistical/Computational Physics & Machine Learning"
   links:
     - label: "Email (preferred)"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jason.lewis@fkem1.lu.se"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/__jasonlewis"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jasonmlewis"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jason-m-lewis0"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=Ua-ZCwYAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jasonmlewis"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/__jasonlewis"
     - label: "Me @ Warwick"
       icon: "fas fa-fw fa-link"
       url: "https://warwick.ac.uk/fac/cross_fac/complexity/people/students/dtc/students2013/lewis/"
-    - label: "Me @ Lund"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.physchem.lu.se/people/postdocs/lewis/"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jason.lewis@fkem1.lu.se"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/__jasonlewis"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jasonmlewis"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jason-m-lewis0"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=Ua-ZCwYAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jasonmlewis"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/__jasonlewis"
 
 defaults:
   # _posts
