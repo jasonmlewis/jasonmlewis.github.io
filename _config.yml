@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jason M. Lewis"
   avatar : "assets/images/photo-JasonLewis-website.jpg"
-  bio    : "Researcher \| Statistical/Computational Physics & Machine Learning"
+  bio    : "Researcher &#124; Statistical/Computational Physics & Machine Learning"
   links:
     - label: "Email (preferred)"
       icon: "fas fa-fw fa-envelope"
