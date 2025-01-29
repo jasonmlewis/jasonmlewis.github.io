@@ -16,7 +16,7 @@
 title: Jason M. Lewis
 email: jason.lewis@fkem1.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website of Jason M. Lewis, Researcher in Statistical/Computational Physics & Machine Learning
+  Personal Website of Jason M. Lewis, Researcher in Physics & Machine Learning
 twitter_username: __jasonlewis
 github_username: jasonmlewis
 minimal_mistakes_skin: default
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jason M. Lewis"
   avatar : "assets/images/photo-JasonLewis-website.jpg"
-  bio    : "Researcher &#124; Statistical/Computational Physics & Machine Learning"
+  bio    : "Researcher &#124; Physics & Machine Learning"
   links:
     - label: "Email (preferred)"
       icon: "fas fa-fw fa-envelope"
