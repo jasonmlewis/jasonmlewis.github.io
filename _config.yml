@@ -31,10 +31,9 @@ remote_theme: mmistakes/minimal-mistakes
 #paginate_path: /page:num/
 timezone: GB # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include: [".well-known"] # bluesky verification
-
 include:
   - _pages
+  - .well-known  # bluesky verification
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
